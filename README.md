@@ -1,10 +1,10 @@
 
 
-Java Remote Method Invocation (RMI) teknolojisini kullanan basit bir komutsatırı mesajlaşma uygulaması
+Java Remote Method Invocation (RMI) teknolojisini kullanan basit bir komut satırı mesajlaşma uygulaması
 
 Bu uygulama Java RMI kullanımını göstermek amacıyla yazılmıştır.
 
-Norlar : 
+Notlar : 
 
 1- Kodun basit ve sade olması için Client ve Server implementasyonları hiçbir senkronizasyon 
 problemini göz önünde bulundurmamıştır.
@@ -18,5 +18,4 @@ Bu sebeple 2 adet server uygulamasının aynı anda çalışması mümkün olmay
 Bu güncelleme yapılmazsa, başka bir isim ile yeni bir client çalıştırmak istendiğinde 
 ClientApp.java dosyasındaki username alanı güncellenmelidir.
 
-
-
+5- Var olan sistemin üzerine basit bir şekilde GUI geliştirilebilir.
