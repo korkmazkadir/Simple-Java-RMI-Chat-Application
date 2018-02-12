@@ -3,6 +3,9 @@
 Java Remote Method Invocation (RMI) teknolojisini kullanan basit bir komut satırı mesajlaşma uygulaması
 
 Bu uygulama Java RMI kullanımını göstermek amacıyla yazılmıştır.
+Uygulama ile ilgili blog postuna şu adresten ulaşabilirsiniz :
+https://zihingezintisi.wordpress.com/2018/02/11/java-rmi-ile-chat-uygulamasi-gelistirme/
+
 
 Notlar : 
 
